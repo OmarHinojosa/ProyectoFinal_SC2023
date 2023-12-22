@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OHINOJOSA\\OneDrive - Tideworks Technology\\Documentos\\GitHub\\ProyectoFinal_SC2023\\Entregable2\\Entregable2\\Entregable2.csproj",
+      "projectUniqueName": "C:\\Users\\OHINOJOSA\\OneDrive - Tideworks Technology\\Documentos\\GitHub\\ProyectoFinal_SC2023\\Entregable2\\Entregable2.csproj",
       "projectName": "Entregable2",
-      "projectPath": "C:\\Users\\OHINOJOSA\\OneDrive - Tideworks Technology\\Documentos\\GitHub\\ProyectoFinal_SC2023\\Entregable2\\Entregable2\\Entregable2.csproj",
+      "projectPath": "C:\\Users\\OHINOJOSA\\OneDrive - Tideworks Technology\\Documentos\\GitHub\\ProyectoFinal_SC2023\\Entregable2\\Entregable2.csproj",
       "packagesPath": "C:\\Users\\OHINOJOSA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OHINOJOSA\\OneDrive - Tideworks Technology\\Documentos\\GitHub\\ProyectoFinal_SC2023\\Entregable2\\Entregable2\\obj\\",
+      "outputPath": "C:\\Users\\OHINOJOSA\\OneDrive - Tideworks Technology\\Documentos\\GitHub\\ProyectoFinal_SC2023\\Entregable2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
